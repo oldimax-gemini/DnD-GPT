@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyTelegramBotAPI
+google-generativeai
+psycopg2-binary
+python-dotenv
+redis
